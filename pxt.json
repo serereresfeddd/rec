@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "builder": "*",
-        "events": "*"
+        "events": "*",
+        "makecode-minecraft-mob-events": "github:microsoft/makecode-minecraft-mob-events#v0.0.2"
     },
     "files": [
         "main.blocks",
